@@ -7,6 +7,7 @@
             Allatkert allatkert = new Allatkert();
             allatkert.Beolvasas();
             allatkert.Szamolas();
+            allatkert.Verseny();
         }
     }
 }
